@@ -1,4 +1,4 @@
-// Code by Schrojam
+// Code by Jamesolof
 // Modified 5/9/25
 
 import { settingsObjectsClient } from "@dynatrace-sdk/client-classic-environment-v2";
